@@ -1,4 +1,4 @@
-# 🚀 Quantitative Trading Strategy with Machine Learning
+# 🚀 Equity Return Prediction using Machine Learning
 
 <br>
 
