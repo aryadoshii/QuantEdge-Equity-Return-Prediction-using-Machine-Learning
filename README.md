@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img src="URL_TO_YOUR_DASHBOARD_SCREENSHOT.png" alt="Dashboard Screenshot" width="800"/>
+  <img src="https://github.com/aryadoshii/Return-Prediction-Model/blob/main/dashboard_screenshot.png" alt="Dashboard Screenshot" width="800"/>
 </p>
 
 <p align="center">
