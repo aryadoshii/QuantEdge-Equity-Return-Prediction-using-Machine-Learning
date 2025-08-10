@@ -64,7 +64,7 @@ The project is structured as a modular pipeline, ensuring reproducibility and sc
 The model's predictive power is derived from a diverse set of quantitative factors. Feature importance analysis from the Random Forest model revealed that market context and risk factors were the most critical signals.
 
 <p align="center">
-  <img src="URL_TO_YOUR_FEATURE_IMPORTANCE_PLOT.png" alt="Feature Importance" width="600"/>
+  <img src="https://github.com/aryadoshii/Return-Prediction-Model/blob/main/feature_importance.png" alt="Feature Importance" width="600"/>
 </p>
 
 | Factor Category | Key Features Implemented |
