@@ -1,0 +1,12 @@
+pandas
+yfinance
+pandas_ta
+tqdm
+scikit-learn
+xgboost
+matplotlib
+seaborn
+statsmodels
+lxml
+setuptools
+numpy==1.26.4
