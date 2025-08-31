@@ -1,4 +1,4 @@
-# 🚀 Equity Return Prediction using Machine Learning
+# 🚀 QuantEdge: Equity Return Prediction using Machine Learning
 
 <br>
 
